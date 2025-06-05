@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# C++ / CUDA
+*.o
+*.so
+*.out
+*.a
+*.lib
+*.dll
+*.exp
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile 
+
+.specstory/
